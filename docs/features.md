@@ -4,7 +4,7 @@
 
 ### Currency Manager
 
-Money Money 💸.
+Money matters 💸.
 <br>
 Use one manager per currency, assign relevant data in the corresponding SO and you're set.
 
@@ -94,6 +94,19 @@ Easily integrate toggles for music and haptics, as well as attributions for non-
 ```text
 SettingsHandler deals with everything related to settings
 To add attribution, add info in the AtrributionDataSO and it'll reflect automatically
+```
+
+---
+
+### Button Attribute
+
+Test with ease 👨🏻‍🔬.
+<br>
+
+![Screenshot](img/ButtonAttribute.png "Button Attribute")
+
+```text
+Use attribute [Button] to expose the method as shown in above image
 ```
 
 ---
@@ -259,11 +272,3 @@ These features can be accessed from top menu bar - CustomTools
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Replace objects in your scene with a new prefab. Optionally, you can also delete old objects.
 
 <br>
-
----
-
-### Beautification
-
----
-
-### Creative Package

@@ -3,6 +3,8 @@ site_url: https://game-docs.com/
 nav:
   - Home: index.md
   - Features: features.md
+  - Scripts: scripts.md
+  - Beautification: creativepackage.md
   - Creative Package: creativepackage.md
   - About: about.md
 theme: cinder
