@@ -219,6 +219,12 @@ To use them, assign the sprite to an image component and play around with the
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Transition camera positiona nd rotation, shake camera, change FOV.
 
+<br>
+
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TMP_Text
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Animate numbers to easily show changing values.
+
 ---
 
 ### Utilities
@@ -230,7 +236,6 @@ To use them, assign the sprite to an image component and play around with the
 ```text
 Floating text can be spawned via [FloatingTextManager]
 ```
-
 <br>
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tags and Layers

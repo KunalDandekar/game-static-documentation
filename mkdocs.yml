@@ -4,7 +4,7 @@ nav:
   - Home: index.md
   - Features: features.md
   - Scripts: scripts.md
-  - Beautification: creativepackage.md
+  - Beautification: beautification.md
   - Creative Package: creativepackage.md
   - About: about.md
 theme: cinder

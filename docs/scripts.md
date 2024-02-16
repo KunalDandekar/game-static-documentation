@@ -10,7 +10,7 @@ An overview of how certain scripts should be used.
 
 ---
 
-## GlobalReferences
+### GlobalReferences
 
 ---
 
